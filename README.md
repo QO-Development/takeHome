@@ -17,4 +17,4 @@ run './runMe'
 If the binary wont work on your machine, install go and run 'go run main.go' 
 
 
-
+Note: The front end is running at http://localhost:3000 , and the backend is running at http://localhost:8080 . 
