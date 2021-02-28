@@ -1,13 +1,13 @@
 
-How to Run the Apps: 
+## How to Run the Apps: 
 
-Frontend Instructions: 
+### Frontend Instructions: 
 
 cd into the front end directory. 
 run 'yarn start' 
 
 
-Backend Instructions: 
+### Backend Instructions: 
 
 cd into the back end directory. 
 
